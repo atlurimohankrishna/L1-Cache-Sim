@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import time
 from collections import OrderedDict
 import random
@@ -123,8 +117,6 @@ if __name__ == "__main__":
 
     plot_results(results)
 
-
-# In[ ]:
 
 
 
